@@ -1,0 +1,125 @@
+{
+    "status": "success",
+    "result": [
+        {
+            "id": 7453,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Shane and family are wonderful! Would definitely host again :)",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 10
+                },
+                {
+                    "category": "communication",
+                    "rating": 10
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 10
+                }
+            ],
+            "submittedAt": "2020-08-21 22:45:14",
+            "guestName": "Shane Finkelstein",
+            "listingName": "2B N1 A - 29 Shoreditch Heights"
+        },
+        {
+            "id": 7454,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Great guests, very quiet and left the place spotless. Highly recommended.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 10
+                },
+                {
+                    "category": "communication",
+                    "rating": 9
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 10
+                }
+            ],
+            "submittedAt": "2024-11-12 10:15:00",
+            "guestName": "Sarah Jenkins",
+            "listingName": "Urban Loft - Downtown"
+        },
+        {
+            "id": 7455,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Communication was a bit slow at the start, but overall a pleasant stay.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 8
+                },
+                {
+                    "category": "communication",
+                    "rating": 6
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 9
+                }
+            ],
+            "submittedAt": "2024-12-01 14:20:33",
+            "guestName": "Michael Chen",
+            "listingName": "Seaside Villa"
+        },
+        {
+            "id": 7456,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Followed all house rules perfectly. Would love to have them back anytime.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 9
+                },
+                {
+                    "category": "communication",
+                    "rating": 10
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 10
+                }
+            ],
+            "submittedAt": "2025-01-05 09:00:12",
+            "guestName": "Emma Thompson",
+            "listingName": "2B N1 A - 29 Shoreditch Heights"
+        },
+        {
+            "id": 7457,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "The guest was polite but forgot to take out the trash as requested.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 7
+                },
+                {
+                    "category": "communication",
+                    "rating": 8
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 6
+                }
+            ],
+            "submittedAt": "2025-01-15 18:30:45",
+            "guestName": "David Miller",
+            "listingName": "Urban Loft - Downtown"
+        }
+    ]
+}

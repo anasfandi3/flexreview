@@ -39,7 +39,7 @@ class HostawayController extends Controller
             $rawReviews = $reviews;
         } else {
             // fallback to mock
-            $mock = Storage::get('mocks/reviews.json');
+            $mock = file_get_contents(public_path('reviews.json'));
             if (! $mock) {
                 if (! $mock) {
                     throw new \Exception('Mock file not found or empty');
